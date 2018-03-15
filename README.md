@@ -1,4 +1,4 @@
-Miwok App
+Miwok App (Updated to use Fragments, ViewPager, TabLayout) by Mohamed Hassan Elmetwaly (Udacity ID: computerz_man (Mobil: 00201000666749))
 ===================================
 
 This app displays lists of vocabulary words for the user to learn the Miwok language.
